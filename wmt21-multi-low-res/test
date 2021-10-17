@@ -1,0 +1,13 @@
+#!/bin/bash
+
+. /home/aires/personal_work_troja/python_envs/wmt21/bin/activate
+
+lang_pair=ca_pt-ro
+data=/home/aires/personal_work_troja/wmt21_multi_low_res/experiments/multisource/$lang_pair
+spm=/home/aires/personal_work_ms/wmt21/sentencepiece/sentencepiece/build/src
+spm_model=$data/model/$lang_pair.model
+tgt_lang=ro
+
+
+cat $1 | $spm/spm_decode --model $spm_model > $data/out/out_postprocessed
+cat $data/out/out_postprocessed | python -m sacrebleu $data/data/val/all_texts.$tgt_lang

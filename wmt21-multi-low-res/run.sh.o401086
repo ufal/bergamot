@@ -1,0 +1,899 @@
+LRC:ubuntu 18.04: SGE 8.1.9 configured...
+Setting python env
+Working on fr-oc
+fr-oc
+Processing GlobalVoices
+fr-oc
+--2021-09-13 22:17:38--  https://opus.nlpl.eu/download.php?f=GlobalVoices/v2018q4/moses/fr-oc.txt.zip
+Resolving opus.nlpl.eu (opus.nlpl.eu)... 193.166.25.9
+Connecting to opus.nlpl.eu (opus.nlpl.eu)|193.166.25.9|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://object.pouta.csc.fi/OPUS-GlobalVoices/v2018q4/moses/fr-oc.txt.zip [following]
+--2021-09-13 22:17:38--  https://object.pouta.csc.fi/OPUS-GlobalVoices/v2018q4/moses/fr-oc.txt.zip
+Resolving object.pouta.csc.fi (object.pouta.csc.fi)... 86.50.254.19, 86.50.254.18
+Connecting to object.pouta.csc.fi (object.pouta.csc.fi)|86.50.254.19|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2021-09-13 22:17:38 ERROR 404: Not Found.
+
+unzip:  cannot find or open ./*.zip*, ./*.zip*.zip or ./*.zip*.ZIP.
+
+No zipfiles found.
+Processing Europarl
+fr-oc
+--2021-09-13 22:17:38--  https://opus.nlpl.eu/download.php?f=Europarl/v8/moses/fr-oc.txt.zip
+Resolving opus.nlpl.eu (opus.nlpl.eu)... 193.166.25.9
+Connecting to opus.nlpl.eu (opus.nlpl.eu)|193.166.25.9|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://object.pouta.csc.fi/OPUS-Europarl/v8/moses/fr-oc.txt.zip [following]
+--2021-09-13 22:17:38--  https://object.pouta.csc.fi/OPUS-Europarl/v8/moses/fr-oc.txt.zip
+Resolving object.pouta.csc.fi (object.pouta.csc.fi)... 86.50.254.19, 86.50.254.18
+Connecting to object.pouta.csc.fi (object.pouta.csc.fi)|86.50.254.19|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2021-09-13 22:17:39 ERROR 404: Not Found.
+
+unzip:  cannot find or open ./*.zip*, ./*.zip*.zip or ./*.zip*.ZIP.
+
+No zipfiles found.
+Processing JW300
+Processing WikiMatrix
+Processing MultiCCAligned
+fr-oc
+--2021-09-13 22:17:39--  https://opus.nlpl.eu/download.php?f=MultiCCAligned/v1.1/moses/fr-oc.txt.zip
+Resolving opus.nlpl.eu (opus.nlpl.eu)... 193.166.25.9
+Connecting to opus.nlpl.eu (opus.nlpl.eu)|193.166.25.9|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://object.pouta.csc.fi/OPUS-MultiCCAligned/v1.1/moses/fr-oc.txt.zip [following]
+--2021-09-13 22:17:39--  https://object.pouta.csc.fi/OPUS-MultiCCAligned/v1.1/moses/fr-oc.txt.zip
+Resolving object.pouta.csc.fi (object.pouta.csc.fi)... 86.50.254.19, 86.50.254.18
+Connecting to object.pouta.csc.fi (object.pouta.csc.fi)|86.50.254.19|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2021-09-13 22:17:39 ERROR 404: Not Found.
+
+unzip:  cannot find or open ./*.zip*, ./*.zip*.zip or ./*.zip*.ZIP.
+
+No zipfiles found.
+Processing Opus100
+Processing Books
+fr-oc
+--2021-09-13 22:17:39--  https://opus.nlpl.eu/download.php?f=Books/v1/moses/fr-oc.txt.zip
+Resolving opus.nlpl.eu (opus.nlpl.eu)... 193.166.25.9
+Connecting to opus.nlpl.eu (opus.nlpl.eu)|193.166.25.9|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://object.pouta.csc.fi/OPUS-Books/v1/moses/fr-oc.txt.zip [following]
+--2021-09-13 22:17:39--  https://object.pouta.csc.fi/OPUS-Books/v1/moses/fr-oc.txt.zip
+Resolving object.pouta.csc.fi (object.pouta.csc.fi)... 86.50.254.19, 86.50.254.18
+Connecting to object.pouta.csc.fi (object.pouta.csc.fi)|86.50.254.19|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2021-09-13 22:17:39 ERROR 404: Not Found.
+
+unzip:  cannot find or open ./*.zip*, ./*.zip*.zip or ./*.zip*.ZIP.
+
+No zipfiles found.
+Processing bible-uedin
+fr-oc
+--2021-09-13 22:17:39--  https://opus.nlpl.eu/download.php?f=bible-uedin/v1/moses/fr-oc.txt.zip
+Resolving opus.nlpl.eu (opus.nlpl.eu)... 193.166.25.9
+Connecting to opus.nlpl.eu (opus.nlpl.eu)|193.166.25.9|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://object.pouta.csc.fi/OPUS-bible-uedin/v1/moses/fr-oc.txt.zip [following]
+--2021-09-13 22:17:40--  https://object.pouta.csc.fi/OPUS-bible-uedin/v1/moses/fr-oc.txt.zip
+Resolving object.pouta.csc.fi (object.pouta.csc.fi)... 86.50.254.19, 86.50.254.18
+Connecting to object.pouta.csc.fi (object.pouta.csc.fi)|86.50.254.19|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2021-09-13 22:17:40 ERROR 404: Not Found.
+
+unzip:  cannot find or open ./*.zip*, ./*.zip*.zip or ./*.zip*.ZIP.
+
+No zipfiles found.
+Processing TED2020
+Processing Wikipedia
+fr-oc
+--2021-09-13 22:17:40--  https://opus.nlpl.eu/download.php?f=Wikipedia/v1.0/moses/fr-oc.txt.zip
+Resolving opus.nlpl.eu (opus.nlpl.eu)... 193.166.25.9
+Connecting to opus.nlpl.eu (opus.nlpl.eu)|193.166.25.9|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://object.pouta.csc.fi/OPUS-Wikipedia/v1.0/moses/fr-oc.txt.zip [following]
+--2021-09-13 22:17:40--  https://object.pouta.csc.fi/OPUS-Wikipedia/v1.0/moses/fr-oc.txt.zip
+Resolving object.pouta.csc.fi (object.pouta.csc.fi)... 86.50.254.19, 86.50.254.18
+Connecting to object.pouta.csc.fi (object.pouta.csc.fi)|86.50.254.19|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2021-09-13 22:17:40 ERROR 404: Not Found.
+
+unzip:  cannot find or open ./*.zip*, ./*.zip*.zip or ./*.zip*.ZIP.
+
+No zipfiles found.
+Processing ParaCrawl
+fr-oc
+--2021-09-13 22:17:40--  https://opus.nlpl.eu/download.php?f=ParaCrawl/v8/moses/fr-oc.txt.zip
+Resolving opus.nlpl.eu (opus.nlpl.eu)... 193.166.25.9
+Connecting to opus.nlpl.eu (opus.nlpl.eu)|193.166.25.9|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://object.pouta.csc.fi/OPUS-ParaCrawl/v8/moses/fr-oc.txt.zip [following]
+--2021-09-13 22:17:40--  https://object.pouta.csc.fi/OPUS-ParaCrawl/v8/moses/fr-oc.txt.zip
+Resolving object.pouta.csc.fi (object.pouta.csc.fi)... 86.50.254.19, 86.50.254.18
+Connecting to object.pouta.csc.fi (object.pouta.csc.fi)|86.50.254.19|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2021-09-13 22:17:41 ERROR 404: Not Found.
+
+unzip:  cannot find or open ./*.zip*, ./*.zip*.zip or ./*.zip*.ZIP.
+
+No zipfiles found.
+Test already exists.
+Processing language pair: fr-oc
+Looking in folder: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/wmt21_data
+Looking in folder: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/wmt21_data/Books
+Looking in folder: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/wmt21_data/JW300
+Looking in folder: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/wmt21_data/JW300/ca-it
+Looking in folder: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/wmt21_data/JW300/ca-oc
+Looking in folder: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/wmt21_data/JW300/fr-oc
+Looking in folder: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/wmt21_data/Wikipedia
+Looking in folder: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/wmt21_data/ParaCrawl
+Looking in folder: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/wmt21_data/GlobalVoices
+Looking in folder: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/wmt21_data/GlobalVoices/ca-it
+Looking in folder: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/wmt21_data/MultiCCAligned
+Looking in folder: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/wmt21_data/MultiCCAligned/ca-it
+Looking in folder: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/wmt21_data/TED2020
+Looking in folder: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/wmt21_data/TED2020/fr-oc
+Looking in folder: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/wmt21_data/TED2020/ca-oc
+Looking in folder: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/wmt21_data/TED2020/ca-it
+Looking in folder: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/wmt21_data/Opus100
+Looking in folder: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/wmt21_data/Opus100/ca-oc
+Looking in folder: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/wmt21_data/Opus100/ca-it
+Looking in folder: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/wmt21_data/Opus100/fr-oc
+Looking in folder: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/wmt21_data/bible-uedin
+Looking in folder: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/wmt21_data/WikiMatrix
+Looking in folder: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/wmt21_data/WikiMatrix/ca-oc
+Looking in folder: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/wmt21_data/WikiMatrix/ca-it
+Looking in folder: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/wmt21_data/WikiMatrix/fr-oc
+Looking in folder: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/wmt21_data/Europarl
+fr-oc
+clean-corpus.perl: processing /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/lang_pairs/fr-oc/data/all_texts.fr-oc.fr & .oc to /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/lang_pairs/fr-oc/data/all_texts.fr-oc.cln, cutoff 1-150, ratio 2.5
+..........(100000)..
+Input sentences: 124260  Output sentences:  124105
+Cloning into 'sentencepiece'...
+Checking out files:  99% (239/241)   Checking out files: 100% (241/241)   Checking out files: 100% (241/241), done.
+-- VERSION: 0.1.96
+-- The C compiler identification is GNU 7.5.0
+-- The CXX compiler identification is GNU 7.5.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Looking for pthread_create
+-- Looking for pthread_create - not found
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - found
+-- Found Threads: TRUE  
+-- Not Found TCMalloc: TCMALLOC_LIB-NOTFOUND
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/sentencepiece/build
+Scanning dependencies of target sentencepiece_train-static
+[  2%] Building CXX object src/CMakeFiles/sentencepiece_train-static.dir/unicode_script.cc.o
+[  2%] Building CXX object src/CMakeFiles/sentencepiece_train-static.dir/builder.cc.o
+[  4%] Building CXX object src/CMakeFiles/sentencepiece_train-static.dir/trainer_factory.cc.o
+[  4%] Building CXX object src/CMakeFiles/sentencepiece_train-static.dir/trainer_interface.cc.o
+[  7%] Building CXX object src/CMakeFiles/sentencepiece_train-static.dir/unigram_model_trainer.cc.o
+[  7%] Building CXX object src/CMakeFiles/sentencepiece_train-static.dir/char_model_trainer.cc.o
+[  7%] Building CXX object src/CMakeFiles/sentencepiece_train-static.dir/word_model_trainer.cc.o
+[  7%] Building CXX object src/CMakeFiles/sentencepiece_train-static.dir/bpe_model_trainer.cc.o
+[  9%] Building CXX object src/CMakeFiles/sentencepiece_train-static.dir/sentencepiece_trainer.cc.o
+[  9%] Building CXX object src/CMakeFiles/sentencepiece_train-static.dir/pretokenizer_for_training.cc.o
+Scanning dependencies of target sentencepiece-static
+Scanning dependencies of target sentencepiece
+[  9%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/__/third_party/protobuf-lite/arenastring.cc.o
+[ 13%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/__/third_party/protobuf-lite/arena.cc.o
+[ 13%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/__/third_party/protobuf-lite/extension_set.cc.o
+[ 13%] Building CXX object src/CMakeFiles/sentencepiece.dir/__/third_party/protobuf-lite/arena.cc.o
+[ 13%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/__/third_party/protobuf-lite/coded_stream.cc.o
+[ 16%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/__/third_party/protobuf-lite/common.cc.o
+[ 16%] Building CXX object src/CMakeFiles/sentencepiece.dir/__/third_party/protobuf-lite/arenastring.cc.o
+[ 16%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/__/third_party/protobuf-lite/bytestream.cc.o
+[ 20%] Building CXX object src/CMakeFiles/sentencepiece.dir/__/third_party/protobuf-lite/generated_message_table_driven_lite.cc.o
+[ 20%] Building CXX object src/CMakeFiles/sentencepiece.dir/__/third_party/protobuf-lite/bytestream.cc.o
+[ 20%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/__/third_party/protobuf-lite/generated_message_util.cc.o
+[ 23%] Building CXX object src/CMakeFiles/sentencepiece.dir/__/third_party/protobuf-lite/generated_enum_util.cc.o
+[ 23%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/__/third_party/protobuf-lite/generated_enum_util.cc.o
+[ 23%] Building CXX object src/CMakeFiles/sentencepiece.dir/__/third_party/protobuf-lite/common.cc.o
+[ 23%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/__/third_party/protobuf-lite/generated_message_table_driven_lite.cc.o
+[ 25%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/__/third_party/protobuf-lite/implicit_weak_message.cc.o
+[ 25%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/__/third_party/protobuf-lite/int128.cc.o
+[ 25%] Building CXX object src/CMakeFiles/sentencepiece.dir/__/third_party/protobuf-lite/coded_stream.cc.o
+[ 25%] Building CXX object src/CMakeFiles/sentencepiece.dir/__/third_party/protobuf-lite/extension_set.cc.o
+[ 25%] Building CXX object src/CMakeFiles/sentencepiece.dir/__/third_party/protobuf-lite/generated_message_util.cc.o
+[ 26%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/__/third_party/protobuf-lite/io_win32.cc.o
+[ 27%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/__/third_party/protobuf-lite/message_lite.cc.o
+[ 28%] Building CXX object src/CMakeFiles/sentencepiece.dir/__/third_party/protobuf-lite/implicit_weak_message.cc.o
+[ 29%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/__/third_party/protobuf-lite/parse_context.cc.o
+[ 30%] Building CXX object src/CMakeFiles/sentencepiece.dir/__/third_party/protobuf-lite/int128.cc.o
+[ 32%] Building CXX object src/CMakeFiles/sentencepiece.dir/__/third_party/protobuf-lite/io_win32.cc.o
+[ 32%] Building CXX object src/CMakeFiles/sentencepiece.dir/__/third_party/protobuf-lite/message_lite.cc.o
+[ 33%] Building CXX object src/CMakeFiles/sentencepiece.dir/__/third_party/protobuf-lite/parse_context.cc.o
+[ 33%] Building CXX object src/CMakeFiles/sentencepiece.dir/__/third_party/protobuf-lite/repeated_field.cc.o
+[ 35%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/__/third_party/protobuf-lite/repeated_field.cc.o
+[ 35%] Building CXX object src/CMakeFiles/sentencepiece.dir/__/third_party/protobuf-lite/statusor.cc.o
+[ 36%] Building CXX object src/CMakeFiles/sentencepiece.dir/__/third_party/protobuf-lite/status.cc.o
+[ 37%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/__/third_party/protobuf-lite/status.cc.o
+[ 37%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/__/third_party/protobuf-lite/statusor.cc.o
+[ 38%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/__/third_party/protobuf-lite/stringpiece.cc.o
+[ 39%] Building CXX object src/CMakeFiles/sentencepiece.dir/__/third_party/protobuf-lite/stringpiece.cc.o
+[ 40%] Building CXX object src/CMakeFiles/sentencepiece.dir/__/third_party/protobuf-lite/stringprintf.cc.o
+[ 41%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/__/third_party/protobuf-lite/stringprintf.cc.o
+In file included from /usr/include/string.h:494:0,
+                 from /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/sentencepiece/src/../third_party/protobuf-lite/google/protobuf/stubs/port.h:39,
+                 from /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/sentencepiece/src/../third_party/protobuf-lite/google/protobuf/stubs/macros.h:34,
+                 from /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/sentencepiece/src/../third_party/protobuf-lite/google/protobuf/stubs/common.h:46,
+                 from /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/sentencepiece/src/../third_party/protobuf-lite/google/protobuf/message_lite.h:45,
+                 from /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/sentencepiece/third_party/protobuf-lite/message_lite.cc:36:
+In function ‘void* memcpy(void*, const void*, size_t)’,
+    inlined from ‘google::protobuf::uint8* google::protobuf::io::EpsCopyOutputStream::WriteRaw(const void*, int, google::protobuf::uint8*)’ at /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/sentencepiece/src/../third_party/protobuf-lite/google/protobuf/io/coded_stream.h:699:16,
+    inlined from ‘bool google::protobuf::MessageLite::SerializePartialToZeroCopyStream(google::protobuf::io::ZeroCopyOutputStream*) const’ at /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/sentencepiece/src/../third_party/protobuf-lite/google/protobuf/implicit_weak_message.h:86:35:
+/usr/include/x86_64-linux-gnu/bits/string_fortified.h:34:71: warning: ‘void* __builtin___memcpy_chk(void*, const void*, long unsigned int, long unsigned int)’: specified size between 18446744071562067968 and 18446744073709551615 exceeds maximum object size 9223372036854775807 [-Wstringop-overflow=]
+   return __builtin___memcpy_chk (__dest, __src, __len, __bos0 (__dest));
+                                                                       ^
+[ 43%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/__/third_party/protobuf-lite/structurally_valid.cc.o
+[ 43%] Building CXX object src/CMakeFiles/sentencepiece.dir/__/third_party/protobuf-lite/structurally_valid.cc.o
+[ 44%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/__/third_party/protobuf-lite/strutil.cc.o
+[ 45%] Building CXX object src/CMakeFiles/sentencepiece.dir/__/third_party/protobuf-lite/strutil.cc.o
+[ 45%] Building CXX object src/CMakeFiles/sentencepiece.dir/__/third_party/protobuf-lite/time.cc.o
+[ 46%] Building CXX object src/CMakeFiles/sentencepiece.dir/__/third_party/protobuf-lite/wire_format_lite.cc.o
+[ 47%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/__/third_party/protobuf-lite/time.cc.o
+[ 48%] Building CXX object src/CMakeFiles/sentencepiece.dir/__/third_party/protobuf-lite/zero_copy_stream.cc.o
+[ 49%] Building CXX object src/CMakeFiles/sentencepiece.dir/__/third_party/protobuf-lite/zero_copy_stream_impl.cc.o
+[ 50%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/__/third_party/protobuf-lite/wire_format_lite.cc.o
+[ 51%] Building CXX object src/CMakeFiles/sentencepiece.dir/__/third_party/protobuf-lite/zero_copy_stream_impl_lite.cc.o
+[ 51%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/__/third_party/protobuf-lite/zero_copy_stream.cc.o
+[ 52%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/__/third_party/protobuf-lite/zero_copy_stream_impl.cc.o
+[ 53%] Building CXX object src/CMakeFiles/sentencepiece.dir/builtin_pb/sentencepiece.pb.cc.o
+In file included from /usr/include/string.h:494:0,
+                 from /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/sentencepiece/src/../third_party/protobuf-lite/google/protobuf/stubs/port.h:39,
+                 from /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/sentencepiece/src/../third_party/protobuf-lite/google/protobuf/stubs/macros.h:34,
+                 from /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/sentencepiece/src/../third_party/protobuf-lite/google/protobuf/stubs/common.h:46,
+                 from /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/sentencepiece/src/../third_party/protobuf-lite/google/protobuf/message_lite.h:45,
+                 from /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/sentencepiece/third_party/protobuf-lite/message_lite.cc:36:
+In function ‘void* memcpy(void*, const void*, size_t)’,
+    inlined from ‘google::protobuf::uint8* google::protobuf::io::EpsCopyOutputStream::WriteRaw(const void*, int, google::protobuf::uint8*)’ at /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/sentencepiece/src/../third_party/protobuf-lite/google/protobuf/io/coded_stream.h:699:16,
+    inlined from ‘bool google::protobuf::MessageLite::SerializePartialToZeroCopyStream(google::protobuf::io::ZeroCopyOutputStream*) const’ at /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/sentencepiece/src/../third_party/protobuf-lite/google/protobuf/implicit_weak_message.h:86:35:
+/usr/include/x86_64-linux-gnu/bits/string_fortified.h:34:71: warning: ‘void* __builtin___memcpy_chk(void*, const void*, long unsigned int, long unsigned int)’: specified size between 18446744071562067968 and 18446744073709551615 exceeds maximum object size 9223372036854775807 [-Wstringop-overflow=]
+   return __builtin___memcpy_chk (__dest, __src, __len, __bos0 (__dest));
+                                                                       ^
+[ 54%] Building CXX object src/CMakeFiles/sentencepiece.dir/builtin_pb/sentencepiece_model.pb.cc.o
+[ 55%] Building CXX object src/CMakeFiles/sentencepiece.dir/bpe_model.cc.o
+[ 55%] Building CXX object src/CMakeFiles/sentencepiece.dir/char_model.cc.o
+[ 56%] Building CXX object src/CMakeFiles/sentencepiece.dir/error.cc.o
+[ 57%] Building CXX object src/CMakeFiles/sentencepiece.dir/filesystem.cc.o
+[ 58%] Building CXX object src/CMakeFiles/sentencepiece.dir/model_factory.cc.o
+[ 59%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/__/third_party/protobuf-lite/zero_copy_stream_impl_lite.cc.o
+[ 61%] Building CXX object src/CMakeFiles/sentencepiece.dir/model_interface.cc.o
+[ 61%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/builtin_pb/sentencepiece.pb.cc.o
+[ 63%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/bpe_model.cc.o
+[ 63%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/builtin_pb/sentencepiece_model.pb.cc.o
+[ 64%] Building CXX object src/CMakeFiles/sentencepiece.dir/normalizer.cc.o
+[ 65%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/char_model.cc.o
+[ 66%] Building CXX object src/CMakeFiles/sentencepiece.dir/sentencepiece_processor.cc.o
+[ 66%] Building CXX object src/CMakeFiles/sentencepiece.dir/unigram_model.cc.o
+[ 66%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/error.cc.o
+[ 67%] Building CXX object src/CMakeFiles/sentencepiece.dir/util.cc.o
+[ 68%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/filesystem.cc.o
+[ 69%] Building CXX object src/CMakeFiles/sentencepiece.dir/word_model.cc.o
+[ 70%] Building CXX object src/CMakeFiles/sentencepiece.dir/__/third_party/absl/strings/string_view.cc.o
+[ 71%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/model_factory.cc.o
+[ 72%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/model_interface.cc.o
+[ 73%] Building CXX object src/CMakeFiles/sentencepiece.dir/__/third_party/absl/flags/flag.cc.o
+[ 74%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/normalizer.cc.o
+[ 75%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/sentencepiece_processor.cc.o
+[ 76%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/util.cc.o
+[ 76%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/unigram_model.cc.o
+[ 77%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/word_model.cc.o
+[ 78%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/__/third_party/absl/strings/string_view.cc.o
+[ 79%] Building CXX object src/CMakeFiles/sentencepiece-static.dir/__/third_party/absl/flags/flag.cc.o
+[ 80%] Linking CXX shared library libsentencepiece.so
+[ 80%] Built target sentencepiece
+Scanning dependencies of target spm_export_vocab
+Scanning dependencies of target spm_decode
+Scanning dependencies of target spm_encode
+[ 82%] Building CXX object src/CMakeFiles/spm_decode.dir/spm_decode_main.cc.o
+[ 82%] Building CXX object src/CMakeFiles/spm_export_vocab.dir/spm_export_vocab_main.cc.o
+[ 82%] Building CXX object src/CMakeFiles/spm_encode.dir/spm_encode_main.cc.o
+Scanning dependencies of target sentencepiece_train
+[ 84%] Building CXX object src/CMakeFiles/sentencepiece_train.dir/builder.cc.o
+[ 84%] Building CXX object src/CMakeFiles/sentencepiece_train.dir/unicode_script.cc.o
+[ 84%] Building CXX object src/CMakeFiles/sentencepiece_train.dir/trainer_interface.cc.o
+[ 89%] Building CXX object src/CMakeFiles/sentencepiece_train.dir/unigram_model_trainer.cc.o
+[ 89%] Building CXX object src/CMakeFiles/sentencepiece_train.dir/pretokenizer_for_training.cc.o
+[ 89%] Building CXX object src/CMakeFiles/sentencepiece_train.dir/trainer_factory.cc.o
+[ 91%] Building CXX object src/CMakeFiles/sentencepiece_train.dir/char_model_trainer.cc.o
+[ 91%] Building CXX object src/CMakeFiles/sentencepiece_train.dir/word_model_trainer.cc.o
+[ 91%] Building CXX object src/CMakeFiles/sentencepiece_train.dir/sentencepiece_trainer.cc.o
+[ 91%] Building CXX object src/CMakeFiles/sentencepiece_train.dir/bpe_model_trainer.cc.o
+[ 92%] Linking CXX static library libsentencepiece.a
+[ 92%] Built target sentencepiece-static
+[ 93%] Linking CXX executable spm_export_vocab
+[ 93%] Built target spm_export_vocab
+[ 94%] Linking CXX executable spm_decode
+[ 94%] Built target spm_decode
+[ 95%] Linking CXX static library libsentencepiece_train.a
+[ 95%] Built target sentencepiece_train-static
+[ 96%] Linking CXX executable spm_encode
+[ 96%] Built target spm_encode
+[ 96%] Linking CXX shared library libsentencepiece_train.so
+[ 96%] Built target sentencepiece_train
+Scanning dependencies of target spm_train
+Scanning dependencies of target spm_normalize
+[ 98%] Building CXX object src/CMakeFiles/spm_train.dir/spm_train_main.cc.o
+[ 98%] Building CXX object src/CMakeFiles/spm_normalize.dir/spm_normalize_main.cc.o
+[ 99%] Linking CXX executable spm_train
+[100%] Linking CXX executable spm_normalize
+[100%] Built target spm_train
+[100%] Built target spm_normalize
+sudo: no tty present and no askpass program specified
+sudo: no tty present and no askpass program specified
+sentencepiece_trainer.cc(77) LOG(INFO) Starts training with : 
+trainer_spec {
+  input: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/lang_pairs/fr-oc/data/all_texts.fr-oc.cln.fr
+  input: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/lang_pairs/fr-oc/data/all_texts.fr-oc.cln.oc
+  input_format: 
+  model_prefix: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/lang_pairs/fr-oc/model/fr-oc
+  model_type: BPE
+  vocab_size: 8000
+  self_test_sample_size: 0
+  character_coverage: 0.9995
+  input_sentence_size: 5000000
+  shuffle_input_sentence: 1
+  seed_sentencepiece_size: 1000000
+  shrinking_factor: 0.75
+  max_sentence_length: 4192
+  num_threads: 16
+  num_sub_iterations: 2
+  max_sentencepiece_length: 16
+  split_by_unicode_script: 1
+  split_by_number: 1
+  split_by_whitespace: 1
+  split_digits: 0
+  treat_whitespace_as_suffix: 0
+  allow_whitespace_only_pieces: 0
+  user_defined_symbols: <sep>
+  user_defined_symbols: <ca>
+  user_defined_symbols: <fr>
+  user_defined_symbols: <en>
+  user_defined_symbols: <es>
+  user_defined_symbols: <it>
+  user_defined_symbols: <oc>
+  user_defined_symbols: <ro>
+  required_chars: 
+  byte_fallback: 0
+  vocabulary_output_piece_score: 1
+  train_extremely_large_corpus: 0
+  hard_vocab_limit: 1
+  use_all_vocab: 0
+  unk_id: 0
+  bos_id: 1
+  eos_id: 2
+  pad_id: -1
+  unk_piece: <unk>
+  bos_piece: <s>
+  eos_piece: </s>
+  pad_piece: <pad>
+  unk_surface:  ⁇ 
+}
+normalizer_spec {
+  name: nmt_nfkc
+  add_dummy_prefix: 1
+  remove_extra_whitespaces: 1
+  escape_whitespaces: 1
+  normalization_rule_tsv: 
+}
+denormalizer_spec {}
+trainer_interface.cc(329) LOG(INFO) SentenceIterator is not specified. Using MultiFileSentenceIterator.
+trainer_interface.cc(178) LOG(INFO) Loading corpus: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/lang_pairs/fr-oc/data/all_texts.fr-oc.cln.fr
+trainer_interface.cc(178) LOG(INFO) Loading corpus: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/lang_pairs/fr-oc/data/all_texts.fr-oc.cln.oc
+trainer_interface.cc(385) LOG(INFO) Loaded all 248210 sentences
+trainer_interface.cc(400) LOG(INFO) Adding meta_piece: <unk>
+trainer_interface.cc(400) LOG(INFO) Adding meta_piece: <s>
+trainer_interface.cc(400) LOG(INFO) Adding meta_piece: </s>
+trainer_interface.cc(400) LOG(INFO) Adding meta_piece: <sep>
+trainer_interface.cc(400) LOG(INFO) Adding meta_piece: <ca>
+trainer_interface.cc(400) LOG(INFO) Adding meta_piece: <fr>
+trainer_interface.cc(400) LOG(INFO) Adding meta_piece: <en>
+trainer_interface.cc(400) LOG(INFO) Adding meta_piece: <es>
+trainer_interface.cc(400) LOG(INFO) Adding meta_piece: <it>
+trainer_interface.cc(400) LOG(INFO) Adding meta_piece: <oc>
+trainer_interface.cc(400) LOG(INFO) Adding meta_piece: <ro>
+trainer_interface.cc(405) LOG(INFO) Normalizing sentences...
+trainer_interface.cc(466) LOG(INFO) all chars count=35800796
+trainer_interface.cc(477) LOG(INFO) Done: 99.9506% characters are covered.
+trainer_interface.cc(487) LOG(INFO) Alphabet size=135
+trainer_interface.cc(488) LOG(INFO) Final character coverage=0.999506
+trainer_interface.cc(520) LOG(INFO) Done! preprocessed 248210 sentences.
+trainer_interface.cc(526) LOG(INFO) Tokenizing input sentences with whitespace: 248210
+trainer_interface.cc(537) LOG(INFO) Done! 455028
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=871621 min_freq=530
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=197336 size=20 all=5795 active=2469 piece=▁e
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=103455 size=40 all=7722 active=4396 piece=ra
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=65024 size=60 all=9691 active=6365 piece=ic
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=55026 size=80 all=11021 active=7695 piece=▁A
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=41597 size=100 all=13124 active=9798 piece=ont
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=41400 min_freq=3660
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=32354 size=120 all=15289 active=3036 piece=▁las
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=25950 size=140 all=17488 active=5235 piece=▁T
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=22916 size=160 all=19290 active=7037 piece=òr
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=19491 size=180 all=21466 active=9213 piece=▁dins
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=17870 size=200 all=23379 active=11126 piece=▁Le
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=17547 min_freq=2720
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=15981 size=220 all=24964 active=2700 piece=▁parti
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=13820 size=240 all=26936 active=4672 piece=emp
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=12766 size=260 all=29007 active=6743 piece=▁comm
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=11445 size=280 all=30783 active=8519 piece=▁ca
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=10715 size=300 all=32903 active=10639 piece=▁mar
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=10652 min_freq=1745
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=9762 size=320 all=34583 active=3261 piece=ise
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=9010 size=340 all=36494 active=5172 piece=tat
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=8435 size=360 all=38735 active=7413 piece=▁Par
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=7796 size=380 all=40681 active=9359 piece=lo
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=7330 size=400 all=42713 active=11391 piece=ble
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=7321 min_freq=1247
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=6901 size=420 all=44021 active=3386 piece=cte
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=6545 size=440 all=45970 active=5335 piece=▁ob
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=6215 size=460 all=47478 active=6843 piece=lan
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=5883 size=480 all=48718 active=8083 piece=las
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=5569 size=500 all=50468 active=9833 piece=ong
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=5562 min_freq=988
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=5372 size=520 all=52262 active=4149 piece=▁trans
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=5206 size=540 all=53890 active=5777 piece=▁pla
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=5017 size=560 all=54835 active=6722 piece=èrra
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=4706 size=580 all=55988 active=7875 piece=tin
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=4508 size=600 all=57313 active=9200 piece=use
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=4502 min_freq=830
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=4328 size=620 all=58722 active=4161 piece=ing
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=4172 size=640 all=60426 active=5865 piece=▁Saint
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=4030 size=660 all=61365 active=6804 piece=eau
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=3887 size=680 all=62915 active=8354 piece=II
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=3789 size=700 all=63969 active=9408 piece=erre
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=3787 min_freq=716
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=3659 size=720 all=65583 active=4753 piece=vir
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=3560 size=740 all=66902 active=6072 piece=▁14
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=3433 size=760 all=68154 active=7324 piece=tant
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=3329 size=780 all=69163 active=8333 piece=▁lim
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=3240 size=800 all=70526 active=9696 piece=ècte
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=3239 min_freq=618
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=3188 size=820 all=71696 active=4676 piece=erg
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=3098 size=840 all=72890 active=5870 piece=th
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=3007 size=860 all=73947 active=6926 piece=▁ainsi
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=2922 size=880 all=74967 active=7946 piece=ics
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=2852 size=900 all=76349 active=9328 piece=esti
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=2851 min_freq=541
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=2773 size=920 all=77812 active=5164 piece=▁Ap
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=2719 size=940 all=78691 active=6043 piece=▁certa
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=2656 size=960 all=79727 active=7079 piece=▁caract
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=2596 size=980 all=80742 active=8094 piece=▁rela
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=2542 size=1000 all=81946 active=9298 piece=tiva
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=2542 min_freq=483
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=2484 size=1020 all=83180 active=5250 piece=▁sou
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=2448 size=1040 all=84515 active=6585 piece=mment
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=2378 size=1060 all=85454 active=7524 piece=▁inc
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=2341 size=1080 all=86191 active=8261 piece=oque
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=2283 size=1100 all=87027 active=9097 piece=pes
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=2281 min_freq=437
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=2232 size=1120 all=88300 active=5565 piece=▁segu
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=2184 size=1140 all=89506 active=6771 piece=▁dur
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=2141 size=1160 all=90730 active=7995 piece=▁tradi
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=2100 size=1180 all=91772 active=9037 piece=èma
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=2059 size=1200 all=92864 active=10129 piece=omme
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=2058 min_freq=398
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=2030 size=1220 all=93785 active=5534 piece=▁première
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1989 size=1240 all=94810 active=6559 piece=▁lin
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1947 size=1260 all=95553 active=7302 piece=age
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1908 size=1280 all=96992 active=8741 piece=▁char
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1875 size=1300 all=97793 active=9542 piece=▁mom
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=1874 min_freq=367
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1833 size=1320 all=98721 active=5808 piece=assa
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1795 size=1340 all=99766 active=6853 piece=ect
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1764 size=1360 all=100527 active=7614 piece=Es
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1724 size=1380 all=101629 active=8716 piece=▁Après
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1697 size=1400 all=102316 active=9403 piece=▁af
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=1697 min_freq=341
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1676 size=1420 all=103317 active=6065 piece=antas
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1651 size=1440 all=104282 active=7030 piece=dia
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1620 size=1460 all=104855 active=7603 piece=òla
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1592 size=1480 all=105869 active=8617 piece=let
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1557 size=1500 all=106783 active=9531 piece=▁civ
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=1557 min_freq=318
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1540 size=1520 all=107594 active=6136 piece=urent
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1514 size=1540 all=108197 active=6739 piece=▁colon
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1499 size=1560 all=109023 active=7565 piece=▁Can
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1484 size=1580 all=109673 active=8215 piece=dit
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1459 size=1600 all=110199 active=8741 piece=istoire
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=1458 min_freq=301
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1431 size=1620 all=110745 active=6051 piece=▁Ces
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1398 size=1640 all=111367 active=6673 piece=3.
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1375 size=1660 all=112309 active=7615 piece=cer
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1357 size=1680 all=112960 active=8266 piece=▁deu
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1335 size=1700 all=113999 active=9305 piece=▁=
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=1335 min_freq=284
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1320 size=1720 all=114931 active=6626 piece=▁tor
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1306 size=1740 all=115346 active=7041 piece=▁fl
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1292 size=1760 all=116069 active=7764 piece=▁gaire
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1269 size=1780 all=116647 active=8342 piece=ennes
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1252 size=1800 all=117212 active=8907 piece=quò
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=1252 min_freq=270
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1235 size=1820 all=117816 active=6454 piece=▁souvent
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1217 size=1840 all=118525 active=7163 piece=▁doit
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1200 size=1860 all=119074 active=7712 piece=▁fort
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1184 size=1880 all=119591 active=8229 piece=▁év
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1170 size=1900 all=120087 active=8725 piece=iri
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=1170 min_freq=258
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1156 size=1920 all=120900 active=6682 piece=▁Cal
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1136 size=1940 all=121908 active=7690 piece=▁Ge
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1117 size=1960 all=122551 active=8333 piece=▁gouver
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1101 size=1980 all=123456 active=9238 piece=tall
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1083 size=2000 all=124291 active=10073 piece=utat
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=1081 min_freq=245
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1067 size=2020 all=125072 active=6966 piece=▁chap
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1055 size=2040 all=125782 active=7676 piece=▁destru
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1041 size=2060 all=126596 active=8490 piece=▁vend
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1031 size=2080 all=127449 active=9343 piece=cteur
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1018 size=2100 all=128413 active=10307 piece=▁possible
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=1018 min_freq=233
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1008 size=2120 all=128852 active=6859 piece=▁Si
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=992 size=2140 all=129419 active=7426 piece=▁totas
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=981 size=2160 all=130174 active=8181 piece=erne
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=970 size=2180 all=130688 active=8695 piece=▁champ
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=961 size=2200 all=131204 active=9211 piece=ilos
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=961 min_freq=225
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=949 size=2220 all=131975 active=7297 piece=oli
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=936 size=2240 all=132873 active=8195 piece=▁aujourd
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=929 size=2260 all=133503 active=8825 piece=▁foncion
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=920 size=2280 all=134332 active=9654 piece=jar
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=908 size=2300 all=135202 active=10524 piece=▁posse
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=907 min_freq=215
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=900 size=2320 all=136042 active=7592 piece=▁som
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=892 size=2340 all=136871 active=8421 piece=▁tèrme
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=883 size=2360 all=137645 active=9195 piece=òrdre
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=875 size=2380 all=138143 active=9693 piece=▁resta
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=865 size=2400 all=138662 active=10212 piece=rend
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=865 min_freq=206
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=858 size=2420 all=139240 active=7472 piece=ènes
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=849 size=2440 all=139682 active=7914 piece=çat
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=839 size=2460 all=140211 active=8443 piece=mais
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=834 size=2480 all=140944 active=9176 piece=▁den
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=827 size=2500 all=141336 active=9568 piece=▁proxim
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=826 min_freq=199
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=820 size=2520 all=141973 active=7696 piece=même
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=813 size=2540 all=142310 active=8033 piece=▁XIXe
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=806 size=2560 all=142761 active=8484 piece=ock
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=800 size=2580 all=143155 active=8878 piece=▁espècias
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=793 size=2600 all=143867 active=9590 piece=▁vas
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=793 min_freq=193
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=787 size=2620 all=144219 active=7524 piece=▁cet
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=782 size=2640 all=144760 active=8065 piece=pec
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=775 size=2660 all=145475 active=8780 piece=▁mass
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=767 size=2680 all=146038 active=9343 piece=▁caracter
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=762 size=2700 all=146631 active=9936 piece=▁voie
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=762 min_freq=187
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=755 size=2720 all=146907 active=7608 piece=▁occident
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=749 size=2740 all=147412 active=8113 piece=▁social
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=741 size=2760 all=147974 active=8675 piece=▁supp
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=734 size=2780 all=148405 active=9106 piece=tern
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=729 size=2800 all=148950 active=9651 piece=▁dich
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=729 min_freq=182
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=722 size=2820 all=149555 active=8043 piece=▁guer
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=713 size=2840 all=149790 active=8278 piece=èas
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=709 size=2860 all=150598 active=9086 piece=▁recher
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=702 size=2880 all=151009 active=9497 piece=▁mois
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=697 size=2900 all=151671 active=10159 piece=▁déta
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=696 min_freq=176
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=691 size=2920 all=152093 active=7995 piece=jà
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=685 size=2940 all=152512 active=8414 piece=roph
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=679 size=2960 all=152943 active=8845 piece=endant
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=674 size=2980 all=153574 active=9476 piece=án
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=669 size=3000 all=154192 active=10094 piece=aliste
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=669 min_freq=170
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=662 size=3020 all=154613 active=8068 piece=▁sim
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=656 size=3040 all=155164 active=8619 piece=pré
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=651 size=3060 all=155685 active=9140 piece=auteur
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=646 size=3080 all=156028 active=9483 piece=▁còs
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=642 size=3100 all=156442 active=9897 piece=este
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=642 min_freq=165
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=638 size=3120 all=157042 active=8367 piece=▁troupes
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=632 size=3140 all=157416 active=8741 piece=aff
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=628 size=3160 all=158085 active=9410 piece=▁François
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=624 size=3180 all=158646 active=9971 piece=▁seule
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=620 size=3200 all=159138 active=10463 piece=▁fèrre
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=620 min_freq=160
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=615 size=3220 all=159647 active=8466 piece=▁simple
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=611 size=3240 all=160075 active=8894 piece=▁estudi
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=607 size=3260 all=160494 active=9313 piece=▁maison
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=602 size=3280 all=160923 active=9742 piece=andis
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=598 size=3300 all=161237 active=10056 piece=▁deb
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=598 min_freq=155
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=593 size=3320 all=161871 active=8675 piece=odes
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=589 size=3340 all=162508 active=9312 piece=▁)
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=585 size=3360 all=163186 active=9990 piece=èmes
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=581 size=3380 all=163629 active=10433 piece=▁Soci
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=577 size=3400 all=164100 active=10904 piece=▁théorie
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=576 min_freq=151
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=571 size=3420 all=164495 active=8600 piece=esa
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=567 size=3440 all=165104 active=9209 piece=▁pou
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=564 size=3460 all=165370 active=9475 piece=▁passage
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=560 size=3480 all=165741 active=9846 piece=▁britan
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=554 size=3500 all=166239 active=10344 piece=oie
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=554 min_freq=147
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=551 size=3520 all=166784 active=8833 piece=armée
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=547 size=3540 all=167360 active=9409 piece=▁bran
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=542 size=3560 all=167733 active=9782 piece=iments
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=538 size=3580 all=168376 active=10425 piece=quin
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=535 size=3600 all=168938 active=10987 piece=ctement
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=535 min_freq=143
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=531 size=3620 all=169332 active=8832 piece=rich
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=528 size=3640 all=170089 active=9589 piece=▁assi
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=525 size=3660 all=170503 active=10003 piece=▁importants
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=520 size=3680 all=170827 active=10327 piece=▁direction
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=515 size=3700 all=171168 active=10668 piece=Am
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=515 min_freq=139
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=512 size=3720 all=171569 active=8915 piece=▁sola
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=508 size=3740 all=172028 active=9374 piece=mond
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=506 size=3760 all=172432 active=9778 piece=▁mand
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=503 size=3780 all=172711 active=10057 piece=▁utilisée
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=500 size=3800 all=173012 active=10358 piece=▁commerci
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=499 min_freq=137
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=496 size=3820 all=173669 active=9297 piece=▁Lond
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=493 size=3840 all=174062 active=9690 piece=▁homme
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=489 size=3860 all=174330 active=9958 piece=istorique
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=486 size=3880 all=174702 active=10330 piece=▁ectaras
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=483 size=3900 all=175160 active=10788 piece=▁reprodu
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=483 min_freq=133
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=480 size=3920 all=175567 active=9140 piece=▁tele
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=478 size=3940 all=176281 active=9854 piece=▁travaux
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=474 size=3960 all=176589 active=10162 piece=ums
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=471 size=3980 all=177069 active=10642 piece=▁compor
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=468 size=4000 all=177460 active=11033 piece=leterre
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=468 min_freq=130
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=465 size=4020 all=177769 active=9181 piece=▁2,
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=461 size=4040 all=178087 active=9499 piece=▁instru
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=459 size=4060 all=178518 active=9930 piece=▁frontièra
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=456 size=4080 all=178997 active=10409 piece=▁Pers
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=453 size=4100 all=179338 active=10750 piece=▁projècte
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=452 min_freq=127
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=448 size=4120 all=179666 active=9294 piece=arra
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=446 size=4140 all=180117 active=9745 piece=▁produits
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=442 size=4160 all=180657 active=10285 piece=▁culmin
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=439 size=4180 all=180938 active=10566 piece=enari
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=436 size=4200 all=181161 active=10789 piece=quipe
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=436 min_freq=125
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=434 size=4220 all=181430 active=9318 piece=▁mitan
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=431 size=4240 all=181744 active=9631 piece=▁Que
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=429 size=4260 all=182127 active=10014 piece=▁monument
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=426 size=4280 all=182536 active=10423 piece=▁Londres
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=424 size=4300 all=183058 active=10945 piece=raire
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=424 min_freq=122
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=422 size=4320 all=183486 active=9557 piece=▁mm
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=420 size=4340 all=183767 active=9838 piece=▁creat
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=417 size=4360 all=184147 active=10218 piece=âtel
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=415 size=4380 all=184435 active=10506 piece=▁vient
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=413 size=4400 all=184809 active=10880 piece=ouss
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=413 min_freq=120
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=411 size=4420 all=185205 active=9554 piece=▁rouge
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=408 size=4440 all=185594 active=9943 piece=▁Pat
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=407 size=4460 all=186064 active=10413 piece=▁portant
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=405 size=4480 all=186437 active=10786 piece=espaci
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=403 size=4500 all=186745 active=11094 piece=▁modèl
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=403 min_freq=117
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=401 size=4520 all=186844 active=9437 piece=▁darrièra
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=397 size=4540 all=187231 active=9824 piece=ho
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=395 size=4560 all=187772 active=10365 piece=▁reme
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=393 size=4580 all=188114 active=10707 piece=casion
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=391 size=4600 all=188595 active=11188 piece=rof
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=391 min_freq=115
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=390 size=4620 all=189053 active=9797 piece=issions
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=387 size=4640 all=189231 active=9975 piece=liers
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=385 size=4660 all=189524 active=10268 piece=▁moul
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=383 size=4680 all=189759 active=10503 piece=75
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=381 size=4700 all=190056 active=10800 piece=ymp
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=381 min_freq=113
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=379 size=4720 all=190424 active=9839 piece=▁Marc
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=378 size=4740 all=190692 active=10107 piece=▁permettant
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=375 size=4760 all=191192 active=10607 piece=gond
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=373 size=4780 all=191588 active=11003 piece=▁Emp
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=371 size=4800 all=192033 active=11448 piece=▁annex
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=371 min_freq=110
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=369 size=4820 all=192407 active=9952 piece=▁Lin
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=368 size=4840 all=192840 active=10385 piece=▁précis
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=366 size=4860 all=193459 active=11004 piece=uèch
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=364 size=4880 all=193818 active=11363 piece=lus
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=363 size=4900 all=194178 active=11723 piece=▁quartièr
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=363 min_freq=108
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=361 size=4920 all=194496 active=10027 piece=▁règne
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=359 size=4940 all=194677 active=10208 piece=▁Bret
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=358 size=4960 all=194980 active=10511 piece=▁resid
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=355 size=4980 all=195324 active=10855 piece=6)
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=354 size=5000 all=195728 active=11259 piece=▁caractère
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=354 min_freq=106
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=352 size=5020 all=196089 active=10148 piece=▁parties
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=350 size=5040 all=196444 active=10502 piece=resse
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=348 size=5060 all=196617 active=10675 piece=▁bo
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=346 size=5080 all=196958 active=11016 piece=▁aqu
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=345 size=5100 all=197184 active=11242 piece=▁révolu
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=345 min_freq=104
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=342 size=5120 all=197569 active=10242 piece=poth
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=341 size=5140 all=197908 active=10581 piece=▁Nav
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=340 size=5160 all=198147 active=10820 piece=▁propriétés
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=338 size=5180 all=198399 active=11072 piece=▁circons
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=336 size=5200 all=198554 active=11227 piece=▁Sy
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=336 min_freq=102
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=336 size=5220 all=198764 active=10118 piece=▁culminant
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=334 size=5240 all=199039 active=10393 piece=Orient
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=332 size=5260 all=199292 active=10646 piece=idèa
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=331 size=5280 all=199557 active=10911 piece=▁marge
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=330 size=5300 all=199723 active=11077 piece=▁longor
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=330 min_freq=101
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=328 size=5320 all=200145 active=10409 piece=▁fib
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=327 size=5340 all=200414 active=10678 piece=▁programa
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=325 size=5360 all=200589 active=10853 piece=▁preced
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=323 size=5380 all=200935 active=11199 piece=▁rue
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=322 size=5400 all=201219 active=11483 piece=▁marque
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=322 min_freq=99
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=320 size=5420 all=201689 active=10528 piece=lément
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=318 size=5440 all=201978 active=10817 piece=▁sug
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=317 size=5460 all=202414 active=11253 piece=▁départ
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=316 size=5480 all=202600 active=11439 piece=▁planta
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=314 size=5500 all=202930 active=11769 piece=▁actes
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=314 min_freq=98
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=312 size=5520 all=203228 active=10445 piece=seaux
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=310 size=5540 all=203557 active=10774 piece=▁122
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=309 size=5560 all=203817 active=11034 piece=▁exer
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=308 size=5580 all=204011 active=11228 piece=tiennent
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=306 size=5600 all=204285 active=11502 piece=▁Richard
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=306 min_freq=96
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=304 size=5620 all=204542 active=10471 piece=esqu
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=303 size=5640 all=204804 active=10733 piece=▁fréqu
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=302 size=5660 all=205199 active=11128 piece=▁Berlin
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=300 size=5680 all=205543 active=11472 piece=00,
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=299 size=5700 all=205955 active=11884 piece=ònia
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=299 min_freq=94
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=298 size=5720 all=206263 active=10579 piece=▁fisica
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=296 size=5740 all=206543 active=10859 piece=▁Ac
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=295 size=5760 all=206907 active=11223 piece=▁neur
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=294 size=5780 all=207181 active=11497 piece=usatge
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=292 size=5800 all=207299 active=11615 piece=At
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=292 min_freq=93
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=291 size=5820 all=207727 active=10775 piece=▁Ram
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=290 size=5840 all=208004 active=11052 piece=ratge
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=289 size=5860 all=208400 active=11448 piece=▁para
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=288 size=5880 all=208732 active=11780 piece=▁Lis
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=287 size=5900 all=208978 active=12026 piece=▁crist
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=287 min_freq=91
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=286 size=5920 all=209225 active=10686 piece=▁vertadièra
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=284 size=5940 all=209521 active=10982 piece=▁Vit
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=283 size=5960 all=209819 active=11280 piece=ublic
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=281 size=5980 all=210161 active=11622 piece=8).
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=280 size=6000 all=210559 active=12020 piece=▁Sén
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=280 min_freq=90
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=279 size=6020 all=210695 active=10652 piece=▁Dur
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=278 size=6040 all=211103 active=11060 piece=▁Tor
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=277 size=6060 all=211420 active=11377 piece=▁XII
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=276 size=6080 all=211676 active=11633 piece=▁1914
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=275 size=6100 all=211875 active=11832 piece=▁tecnicas
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=274 min_freq=89
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=273 size=6120 all=212107 active=10826 piece=éron
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=272 size=6140 all=212446 active=11165 piece=òcas
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=271 size=6160 all=212581 active=11300 piece=Èst
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=270 size=6180 all=212824 active=11543 piece=▁Kar
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=270 size=6200 all=212976 active=11695 piece=▁utilizats
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=270 min_freq=87
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=269 size=6220 all=213257 active=10930 piece=Universitat
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=267 size=6240 all=213618 active=11291 piece=▁Fou
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=266 size=6260 all=213885 active=11558 piece=iennes
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=265 size=6280 all=214070 active=11743 piece=▁territòris
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=264 size=6300 all=214418 active=12091 piece=▁Partit
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=264 min_freq=86
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=263 size=6320 all=214619 active=10921 piece=▁souvera
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=261 size=6340 all=214929 active=11231 piece=çan
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=261 size=6360 all=215397 active=11699 piece=▁mascul
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=260 size=6380 all=215682 active=11984 piece=▁envoy
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=259 size=6400 all=215844 active=12146 piece=islam
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=259 min_freq=85
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=258 size=6420 all=216069 active=11009 piece=▁Cond
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=257 size=6440 all=216269 active=11209 piece=uèlh
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=256 size=6460 all=216429 active=11369 piece=▁Sc
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=255 size=6480 all=216691 active=11631 piece=▁perp
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=254 size=6500 all=216855 active=11795 piece=▁bac
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=254 min_freq=84
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=254 size=6520 all=217016 active=10990 piece=▁altitude
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=252 size=6540 all=217362 active=11336 piece=);
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=252 size=6560 all=217618 active=11592 piece=Allemagne
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=251 size=6580 all=217949 active=11923 piece=autoroute
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=250 size=6600 all=218128 active=12102 piece=feréncia
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=250 min_freq=83
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=249 size=6620 all=218347 active=11111 piece=▁reine
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=248 size=6640 all=218576 active=11340 piece=▁jap
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=247 size=6660 all=218760 active=11524 piece=▁2008
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=246 size=6680 all=218944 active=11708 piece=heure
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=245 size=6700 all=219225 active=11989 piece=▁Mièja
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=245 min_freq=82
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=244 size=6720 all=219414 active=11151 piece=actuelle
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=243 size=6740 all=219611 active=11348 piece=▁véritable
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=242 size=6760 all=219840 active=11577 piece=▁politics
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=241 size=6780 all=220146 active=11883 piece=rénées
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=240 size=6800 all=220278 active=12015 piece=▁despar
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=240 min_freq=81
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=239 size=6820 all=220517 active=11236 piece=▁mode
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=238 size=6840 all=220792 active=11511 piece=assi
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=237 size=6860 all=221213 active=11932 piece=▁34
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=236 size=6880 all=221430 active=12149 piece=mif
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=236 size=6900 all=221668 active=12387 piece=▁Plusieurs
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=236 min_freq=79
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=235 size=6920 all=221847 active=11263 piece=▁pouvoirs
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=234 size=6940 all=222100 active=11516 piece=▁conflit
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=233 size=6960 all=222375 active=11791 piece=inville
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=232 size=6980 all=222724 active=12140 piece=▁dificul
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=231 size=7000 all=222945 active=12361 piece=▁tonas
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=231 min_freq=78
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=231 size=7020 all=223003 active=11206 piece=▁phénomènes
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=230 size=7040 all=223436 active=11639 piece=▁Espanha
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=229 size=7060 all=223787 active=11990 piece=▁sele
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=229 size=7080 all=223874 active=12077 piece=olithique
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=228 size=7100 all=224201 active=12404 piece=▁dinas
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=228 min_freq=77
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=227 size=7120 all=224242 active=11245 piece=24
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=227 size=7140 all=224767 active=11770 piece=▁châte
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=226 size=7160 all=225074 active=12077 piece=▁larga
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=225 size=7180 all=225471 active=12474 piece=▁Ali
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=225 size=7200 all=225618 active=12621 piece=▁comptava
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=225 min_freq=76
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=224 size=7220 all=225978 active=11641 piece=▁formé
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=223 size=7240 all=226126 active=11789 piece=▁peau
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=222 size=7260 all=226300 active=11963 piece=èrna
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=222 size=7280 all=226617 active=12280 piece=▁Cambra
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=221 size=7300 all=226941 active=12604 piece=▁mem
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=221 min_freq=75
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=221 size=7320 all=227062 active=11464 piece=▁especific
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=220 size=7340 all=227218 active=11620 piece=▁demorèt
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=219 size=7360 all=227616 active=12018 piece=quier
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=218 size=7380 all=227823 active=12224 piece=UE
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=218 size=7400 all=228237 active=12637 piece=▁desir
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=218 min_freq=74
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=217 size=7420 all=228454 active=11623 piece=▁121
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=217 size=7440 all=228668 active=11837 piece=espècias
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=216 size=7460 all=228866 active=12035 piece=▁établi
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=215 size=7480 all=229080 active=12249 piece=▁abbé
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=214 size=7500 all=229272 active=12441 piece=ilat
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=214 min_freq=73
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=214 size=7520 all=229432 active=11577 piece=indépendance
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=213 size=7540 all=229793 active=11938 piece=intens
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=212 size=7560 all=230039 active=12184 piece=▁amor
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=211 size=7580 all=230168 active=12313 piece=zar
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=211 size=7600 all=230394 active=12539 piece=▁suscep
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=211 min_freq=72
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=210 size=7620 all=230645 active=11768 piece=▁Pau
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=209 size=7640 all=230850 active=11973 piece=▁ga
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=209 size=7660 all=230992 active=12115 piece=▁administ
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=208 size=7680 all=231196 active=12319 piece=▁prononci
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=207 size=7700 all=231499 active=12622 piece=▁Monta
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=207 min_freq=71
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=206 size=7720 all=231625 active=11677 piece=loi
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=206 size=7740 all=231804 active=11856 piece=▁conflu
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=205 size=7760 all=232033 active=12085 piece=envir
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=205 size=7780 all=232080 active=12132 piece=▁résultat
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=204 size=7800 all=232332 active=12384 piece=éric
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=204 min_freq=71
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=203 size=7820 all=232588 active=11846 piece=▁Ci
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=203 size=7840 all=232776 active=12034 piece=▁Bretagne
+trainer_interface.cc(615) LOG(INFO) Saving model: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/lang_pairs/fr-oc/model/fr-oc.model
+trainer_interface.cc(626) LOG(INFO) Saving vocabs: /lnet/tspec/work/people/aires/wmt21_multi_low_res/script/data/lang_pairs/fr-oc/model/fr-oc.vocab
+======= EPILOG: Mon Sep 13 22:18:56 CEST 2021
+== Limits:   mem_free=4G,act_mem_free=4G,h_vmem=6G
+== Usage:    cpu=00:03:41, mem=28.60562 GB s, io=4.55288 GB, vmem=371.492M, maxvmem=4.298G
+== Duration: 00:01:18 (78 s)
+== Server name: paris4
